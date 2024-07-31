@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey" style="max-width:100%; height:auto;">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=mrdevil786&color=grey" style="max-width:100%; height:auto;">
 </p>
