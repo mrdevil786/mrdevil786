@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+&+build+together!;Happy+Coding!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect!;Happy+Coding!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
