@@ -6,7 +6,7 @@
 <h1 align="center">✩&emsp;mrdevil786&emsp;✩</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Full+Stack+Developer;Always+learning+new+things;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50&duration=4000&pause=1000" style="max-width:100%; height:auto;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Full+Stack+Developer;Laravel+%26+Vue.js+Enthusiast;Always+learning+new+things;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50&duration=4000&pause=1000" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 - 🔭 Currently working on **exciting web projects**
 - 🌱 Learning **new technologies every day**
-- 💬 Ask me about **anything tech-related**
+- 💬 Ask me about **Laravel, Vue.js, and full-stack development**
 - ⚡ Fun fact: **I debug with coffee and determination**
 - 🎯 Goal: **Building solutions that make a difference**
 
@@ -35,11 +35,11 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,php,react,nodejs,python,git,github,vscode,figma" />
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Python;Always+exploring+new+tech!&font=Fira%20Code&color=%2336BCF7&center=true&width=380&height=50&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HTML+%7C+CSS+%7C+JavaScript;Laravel+%7C+Vue.js+%7C+PHP;React+%7C+Node.js+%7C+Python;Always+exploring+new+tech!&font=Fira%20Code&color=%2336BCF7&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 ---
@@ -53,10 +53,6 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdevil786&theme=radical" alt="mrdevil786's streak"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdevil786&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -77,14 +73,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrdevil786&repo=another-repo&theme=radical)](https://github.com/mrdevil786/another-repo)
 
 </div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mrdevil786/mrdevil786/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
